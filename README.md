@@ -19,8 +19,6 @@ Este repositório também possui o arquivo [melhorias](https://github.com/arthur
 ./parsing_html.sh businesscorp.com.br
 ```
 
-![Screenshot_2024-01-11_15-09-26](https://github.com/arthurcortesr/Parsing.html/assets/55396654/2b32182e-41a4-418c-9dca-ca847897859e)
-
 <br>
 
 ---
