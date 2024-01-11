@@ -1,3 +1,11 @@
+Aqui irei deixar anotações de possíveis melhorias para o script que serão analisadas antes de serem de fato implementadas no script. Também será escrito os códigos e/ou partes da melhoria.
+
+<br>
+
+---
+
+<br>
+
 ## **Melhorias no Parsing**
 
 O uso de grep e cut para extrair informações de HTML pode ser frágil, pois a estrutura do HTML pode variar bastante. Ferramentas específicas de parsing HTML, como awk, sed, ou melhor ainda, grep, podem fornecer mais robustez e flexibilidade. Existem ferramentas em Python, como BeautifulSoup ou lxml, que são especialmente projetadas para analisar HTML de maneira eficiente.
