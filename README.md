@@ -11,7 +11,7 @@ Este repositório também possui o arquivo [melhorias](https://github.com/arthur
 
 ## **Modo de uso**
 ```bash
-./parsing_html.sh HOST
+./parsing_html.sh <host>
 ```
 
 ## **Exemplo**
