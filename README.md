@@ -19,6 +19,20 @@ Este repositório também possui o arquivo [melhorias](https://github.com/arthur
 ./parsing_html.sh businesscorp.com.br
 ```
 
+## **Exemplo de saída**
+
+```bash
+Buscando Hosts:
+subdominio1.businesscorp.com.br
+subdominio2.businesscorp.com.br
+...
+
+Resolvendo Hosts:
+subdominio1.businesscorp.com.br ---> 192.168.1.1, 192.168.1.2
+subdominio2.businesscorp.com.br ---> 192.168.1.3, 192.168.1.4
+...
+```
+
 <br>
 
 ---
@@ -32,19 +46,6 @@ Este repositório também possui o arquivo [melhorias](https://github.com/arthur
 3. Faz o download da página HTML do host especificado.
 4. Extrai os hosts das URLs encontradas na página HTML e exibe na saída padrão.
 5. Resolve os hosts utilizando o comando host e exibe os endereços IP correspondentes.
-
-Exemplo de saída:
-```bash
-Buscando Hosts:
-subdominio1.businesscorp.com.br
-subdominio2.businesscorp.com.br
-...
-
-Resolvendo Hosts:
-subdominio1.businesscorp.com.br ---> 192.168.1.1, 192.168.1.2
-subdominio2.businesscorp.com.br ---> 192.168.1.3, 192.168.1.4
-...
-```
 
 <br>
 
