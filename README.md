@@ -1,5 +1,5 @@
 # Parsing.html
-O script parsing_html.sh é um utilitário desenvolvido em Bash para realizar parsing de URLs e resolução de hosts a partir de uma página HTML. Ele fornece uma maneira simples de extrair links da página HTML de um determinado host e resolver os hosts associados.
+O script ```parsing_html.sh``` é um utilitário desenvolvido em Bash para realizar parsing de URLs e resolução de hosts a partir de uma página HTML. Ele fornece uma maneira simples de extrair links da página HTML de um determinado host e resolver os hosts associados.
 
 Este repositório também possui o arquivo [melhorias](https://github.com/arthurcortesr/Parsing-HTML/blob/main/melhorias.md) que é usado para adicionar anotações de possíveis melhorias a serem implementadas no no script.
 
